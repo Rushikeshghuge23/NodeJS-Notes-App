@@ -1,2 +1,2 @@
 # NodeJS-Notes-App
-Notes Application using NodeJS, Express, MongoDB.
+Notes Application using NodeJS, Express and MongoDB.
